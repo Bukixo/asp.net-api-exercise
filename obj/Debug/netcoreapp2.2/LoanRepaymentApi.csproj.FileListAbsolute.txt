@@ -1,0 +1,14 @@
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/bin/Debug/netcoreapp2.2/LoanRepaymentApi.deps.json
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/bin/Debug/netcoreapp2.2/LoanRepaymentApi.runtimeconfig.json
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/bin/Debug/netcoreapp2.2/LoanRepaymentApi.runtimeconfig.dev.json
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/bin/Debug/netcoreapp2.2/LoanRepaymentApi.dll
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/bin/Debug/netcoreapp2.2/LoanRepaymentApi.pdb
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.csprojAssemblyReference.cache
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.csproj.CoreCompileInputs.cache
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.RazorAssemblyInfo.cache
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.RazorAssemblyInfo.cs
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.AssemblyInfoInputs.cache
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.AssemblyInfo.cs
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.RazorTargetAssemblyInfo.cache
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.dll
+/Users/btho0006/Documents/projects/personal/LoanRepaymentApi/obj/Debug/netcoreapp2.2/LoanRepaymentApi.pdb
